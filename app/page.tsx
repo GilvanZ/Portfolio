@@ -81,7 +81,8 @@ export default function Home() {
               See projects
             </a>
             <a
-              href="#"
+              href="/downloads/Gilvan_Zacarias_CV.docx"
+              download
               className="px-6 py-2.5 rounded-lg border border-white/[0.12] text-white/50 text-sm hover:border-white/30 hover:text-white/90 transition-all"
             >
               Download CV
