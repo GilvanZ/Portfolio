@@ -5,21 +5,11 @@ const projects = [
     icon: "🚀",
     title: "SpaceX Launches",
     description:
-      "Explorer de lançamentos da SpaceX em tempo real usando a API pública. Filtros por ano, foguete e status de missão.",
+      "Real-time SpaceX launch explorer using the public API. Filters by year, rocket and mission status.",
     tags: ["React", "REST API"],
     accent: "#e8602c",
     iconBg: "rgba(232,96,44,0.12)",
     href: "https://v2-spacex-mission-control.vercel.app",
-  },
-  {
-    icon: "⚡",
-    title: "PokéDex App",
-    description:
-      "Pokédex com busca, filtro por tipo e visualização detalhada de stats usando a PokéAPI.",
-    tags: ["React", "PokéAPI"],
-    accent: "#f7c844",
-    iconBg: "rgba(247,200,68,0.10)",
-    href: "#",
   },
   {
     icon: "🔐",
@@ -112,7 +102,7 @@ export default function Home() {
                 className="block text-base text-[#7c6fff]"
                 style={{ fontFamily: "Syne, sans-serif" }}
               >
-                2+
+                1+
               </strong>
               anos de exp.
             </div>
